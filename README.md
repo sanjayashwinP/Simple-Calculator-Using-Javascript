@@ -7,7 +7,7 @@ A basic calculator built using **HTML, CSS, and JavaScript**.
 It allows users to perform four basic arithmetic operations:
 
  ➕ Addition  
- ➖ Subtraction  
+ ➖ Subtraction 
  ✖ Multiplication  
  ➗ Division  
 
