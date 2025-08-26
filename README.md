@@ -139,13 +139,13 @@ function calculate(op) {
 ```
 ## OUTPUT:
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/4dc8f648-9210-4948-b826-ef0a8cd60f52" />
-### ADDITION
+#### ADDITION
 <img width="1911" height="904" alt="image" src="https://github.com/user-attachments/assets/a497d676-83c2-4a14-bf20-5682dc219f18" />
-### SUBTRACTION
+#### SUBTRACTION
 <img width="1905" height="887" alt="image" src="https://github.com/user-attachments/assets/7196a74e-0278-4646-96bc-bc8c9402c553" />
-### MULTIPLICATION
+#### MULTIPLICATION
 <img width="1892" height="885" alt="image" src="https://github.com/user-attachments/assets/bf3faab9-d952-49c7-8110-29996b72cf68" />
-### DIVISION
+#### DIVISION
 <img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/30fb5562-1638-45a4-9e38-ec3e1bae4147" />
 
 
