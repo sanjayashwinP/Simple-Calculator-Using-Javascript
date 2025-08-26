@@ -138,7 +138,6 @@ function calculate(op) {
 
 ```
 ## OUTPUT:
-### ADD
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/4dc8f648-9210-4948-b826-ef0a8cd60f52" />
 ### ADDITION
 <img width="1911" height="904" alt="image" src="https://github.com/user-attachments/assets/a497d676-83c2-4a14-bf20-5682dc219f18" />
